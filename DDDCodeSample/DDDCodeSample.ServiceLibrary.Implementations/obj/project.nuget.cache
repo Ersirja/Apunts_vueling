@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XrUidve3F0WZLqgkIOwoB/qFSz6nKj2CRbiaB5aNYUwR8KBJ43BfRyWqBvP56j2KYCJE2MhWMrZSUhoetm6eHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jose Ignacio\\source\\repos\\Ejemplos\\DDDCodeSample\\DDDCodeSample.ServiceLibrary.Implementations\\DDDCodeSample.ServiceLibrary.Implementations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jose Ignacio\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

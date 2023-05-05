@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = UnitTestApp.ServiceLibrary.Impl.UnitTest
+build_property.ProjectDir = C:\Users\Jose Ignacio\source\repos\Ejemplos\UnitTestingApp\UnitTestApp.ServiceLibrary.Impl.UnitTest\

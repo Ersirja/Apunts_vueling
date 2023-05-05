@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = UnitTestApp.Infrastructure.Impl.IntegrationTest
+build_property.ProjectDir = C:\Users\Jose Ignacio\source\repos\Ejemplos\UnitTestingApp\UnitTestApp.Infrastructure.Impl.IntegrationTest\
